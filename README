@@ -1,0 +1,10 @@
+OpenEmbedded/Yocto BSP layer for custom platforms
+=============================================================
+
+This layer provides support for custom platforms for use
+with OpenEmbedded and/or Yocto.
+
+This layer depends on:
+
+https://github.com/digi-embedded/meta-digi.git
+
